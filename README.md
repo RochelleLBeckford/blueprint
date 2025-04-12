@@ -2,7 +2,7 @@
 
 ### Practice working with HTML
 
-- [ ] Simple practice to gain better understanding of HTML and what it is.
+- [ ] Simple practice to gain better understanding of HTML and it's elements
 
 ---
 - [ ] Encompass:
